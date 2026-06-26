@@ -1,0 +1,4 @@
+PyMuPDF==1.23.8
+pandas==2.0.3
+scikit-learn==1.2.2
+nltk==3.8.1
